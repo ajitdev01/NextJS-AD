@@ -1,16 +1,34 @@
 <div align="center">
+        
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=220&section=header&text=Next.js&fontSize=64&fontColor=ffffff&desc=TypeScript%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20Express.js%20%C2%B7%20MongoDB%20%C2%B7%20AWS%20%C2%B7%20Docker%20%C2%B7%20Kubernetes%20%C2%B7%20Linux&descSize=15&descAlignY=68&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=220&section=header&text=Ajit%20Dev&fontSize=64&fontColor=ffffff&desc=Next.js%20Developer%20%C2%B7%20MERN%20Builder%20%C2%B7%20DSA%20Problem%20Solver%20%C2%B7%20Digital%20Brand%20Creator&descSize=16&descAlignY=68&animation=fadeIn" width="100%" />
 
-<h1>NextJS AD — Ajit Dev</h1>
-<p><b>Design brief for a premium, high-converting, agency-grade Next.js brand website</b></p>
+<h1 align="center">
+  🚀 NextJS AD
+</h1>
+<p align="center">
+  <b>Build Fast, Scalable & SEO-Optimized Next.js Applications</b>
+</p>
 
+<p align="center">
+  Created by
+  <a href="https://brainzima.com">
+    <b>Brainzima Innovation Institute</b>
+  </a>
+  • Powered by
+  <a href="https://ajitdev.com">
+    <b>Ajit Dev</b>
+  </a>
+</p>
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MERN-Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/LAMP-Stack-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-450%2B%20Solved-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/LAMP-Stack-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 </p>
 
 <p>
